@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kahayashj
+- 👀 I’m interested in watching people eating in YouTube videos
+- 🌱 I’m currently learning Tableau, Python, Scala, D3.js
+- 📫 You can reach me at Twitter @kahayashi_
